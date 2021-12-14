@@ -10,7 +10,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
  *
- * @author ale
+ * @author giuseppe
  * @version $Id: $
  */
 public class LookupList extends ArrayList<LookupEntry>{
