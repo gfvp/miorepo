@@ -6,11 +6,6 @@ import java.util.List;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-/**
- *
- * @author ale
- * @version $Id: $
- */
 public class JsonTable{
 
     private Integer page=null;
