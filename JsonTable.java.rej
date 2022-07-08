@@ -1,0 +1,13 @@
+diff a/JsonTable.java b/JsonTable.java	(rejected hunks)
+@@ -6,11 +6,6 @@
+ import com.fasterxml.jackson.annotation.JsonIgnore;
+ import com.fasterxml.jackson.databind.ObjectMapper;
+ 
+-/**
+- *
+- * @author ale
+- * @version $Id: $
+- */
+ public class JsonTable{
+ 
+     private Integer page=null;
